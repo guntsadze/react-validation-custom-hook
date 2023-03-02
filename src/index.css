@@ -40,7 +40,8 @@ input{
 
 
 .error{
-  background-color: #8b1010de;;
+  background-color: #8b1010de;
+  border: 1px solid darkgrey;
 }
 
 .green{
